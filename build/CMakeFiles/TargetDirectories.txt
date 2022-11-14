@@ -1,3 +1,0 @@
-/Users/youmin/Desktop/waste/algo-demo-ii/build/CMakeFiles/main.dir
-/Users/youmin/Desktop/waste/algo-demo-ii/build/CMakeFiles/edit_cache.dir
-/Users/youmin/Desktop/waste/algo-demo-ii/build/CMakeFiles/rebuild_cache.dir
